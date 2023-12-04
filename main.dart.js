@@ -40836,7 +40836,7 @@ A.mc.prototype={
 ae(){return new A.Pt(B.l)}}
 A.Pt.prototype={
 aM(){this.be()},
-E(a,b){var s=null,r=A.atf(237,237,237,1),q=A.a4("Book Store",s,s,s,s,s,s,s),p=t.t
+E(a,b){var s=null,r=A.atf(237,237,237,1),q=A.a4("ASR | \u0639\u0635\u0631",s,s,s,s,s,s,s),p=t.t
 return new A.xO(2,A.lh(A.kr(s,B.aN,new A.C8(A.b([A.avO(A.cs(B.C0,s,s,s),"Login"),A.avO(A.cs(B.C3,s,s,s),"Register")],p),B.tG,5,s),s,s,s,q),r,new A.Ca(A.b([new A.zv(s),new A.AN(s)],p),s),s,s,s),s)}}
 A.zv.prototype={
 ae(){return new A.RC(new A.bh(null,t.Xu),A.fx(null),A.fx(null),B.l)}}
@@ -41646,7 +41646,7 @@ s=r.b.test(a)?A.aGo(s,A.e(a)+" ",a):A.iR(null,null,s,A.e(a)+" ")
 this.b.push(s)},
 $S:167}
 A.mO.prototype={
-E(a,b){var s=null,r=A.a4("Book Store",s,s,s,s,s,s,s),q=t.t
+E(a,b){var s=null,r=A.a4("ASR | \u0639\u0635\u0631",s,s,s,s,s,s,s),q=t.t
 return A.kr(A.b([A.f2(B.an,A.b([A.i8(s,A.cs(B.ha,B.j,s,s),s,new A.a4S(b),s),A.lb(s,A.f2(B.an,A.b([A.cs(B.h6,B.aN,s,20),A.lb(s,A.bw(A.YL(new A.a4T(),t.Dy),s,s),s,s,s,4,3,s)],q),B.ay),s,s,s,s,s,s)],q),B.ay)],q),B.bl,this.c,!0,0,s,r)},
 gh6(){var s=null
 return this.c==null?new A.K(56,A.kr(s,s,s,s,s,s,s).k2.b):new A.K(56,80+A.kr(s,s,s,s,s,s,s).k2.b)}}
@@ -41664,7 +41664,7 @@ $C:"$3",
 $R:3,
 $S:76}
 A.KU.prototype={
-E(a,b){var s=null,r=A.a4("Book Store",s,s,s,s,s,s,s),q=A.i8(s,A.cs(B.el,s,s,s),s,new A.a4M(b),s),p=t.t
+E(a,b){var s=null,r=A.a4("ASR | \u0639\u0635\u0631",s,s,s,s,s,s,s),q=A.i8(s,A.cs(B.el,s,s,s),s,new A.a4M(b),s),p=t.t
 return A.kr(A.b([A.f2(B.an,A.b([A.i8(s,A.cs(B.ha,B.j,s,s),s,new A.a4N(),s),A.lb(s,A.f2(B.an,A.b([A.cs(B.h6,B.aN,s,20),A.lb(s,A.bw(A.YL(new A.a4O(),t.Dy),s,s),s,s,s,4,3,s)],p),B.ay),s,s,s,s,s,s)],p),B.ay)],p),B.bl,s,!0,0,q,r)}}
 A.a4M.prototype={
 $0(){return A.cL(this.a,!1).ds(0)},
@@ -41679,7 +41679,7 @@ $C:"$3",
 $R:3,
 $S:76}
 A.KV.prototype={
-E(a,b){var s=null,r=A.a4("Book Store",s,s,s,s,s,s,s),q=t.t
+E(a,b){var s=null,r=A.a4("ASR | \u0639\u0635\u0631",s,s,s,s,s,s,s),q=t.t
 return A.kr(A.b([A.f2(B.an,A.b([A.i8(s,A.cs(B.BZ,B.j,s,s),s,new A.a4Q(b),s)],q),B.ay)],q),B.bl,s,!0,0,s,r)},
 gh6(){var s=null,r=A.kr(s,s,s,s,s,s,s)
 return new A.K(56,r.k2.b)}}
@@ -41691,7 +41691,7 @@ A.a4P.prototype={
 $1(a){return new A.iO(null)},
 $S:41}
 A.KT.prototype={
-E(a,b){var s=null,r=A.a4("Book Store",s,s,s,s,s,s,s),q=A.i8(s,A.cs(B.el,s,s,s),s,new A.a4J(b),s),p=t.t
+E(a,b){var s=null,r=A.a4("ASR | \u0639\u0635\u0631",s,s,s,s,s,s,s),q=A.i8(s,A.cs(B.el,s,s,s),s,new A.a4J(b),s),p=t.t
 return A.kr(A.b([A.f2(B.an,A.b([A.i8(s,A.cs(B.ha,B.j,s,s),s,new A.a4K(b),s),A.lb(s,A.f2(B.an,A.b([A.cs(B.h6,B.aN,s,20),A.lb(s,A.bw(A.YL(new A.a4L(),t.Dy),s,s),s,s,s,4,3,s)],p),B.ay),s,s,s,s,s,s)],p),B.ay)],p),s,s,!0,0,q,r)},
 gh6(){var s=null,r=A.kr(s,s,s,s,s,s,s)
 return new A.K(56,r.k2.b)}}
@@ -41890,7 +41890,7 @@ aM(){this.be()
 this.T3()},
 T3(){A.c3(A.cP(0,0,2),new A.ak0(this))},
 E(a,b){var s=null
-return A.mI(B.O,!0,s,A.aR(s,A.bw(A.cb(A.b([new A.rO(A.avp(s,s,new A.x1("images/welcome.png",s,s)),s,s,s,s),A.a4("Welcome to Book Store",s,s,s,s,s,s,s)],t.t),B.E,B.bH,B.u),s,s),B.k,B.j,s,s,s,s,s,s,s,s,s),B.k,s,0,s,s,s,s,B.c6)}}
+return A.mI(B.O,!0,s,A.aR(s,A.bw(A.cb(A.b([new A.rO(A.avp(s,s,new A.x1("images/welcome.png",s,s)),s,s,s,s),A.a4("ASR | \u0639\u0635\u0631",s,s,s,s,s,s,s)],t.t),B.E,B.bH,B.u),s,s),B.k,B.j,s,s,s,s,s,s,s,s,s),B.k,s,0,s,s,s,s,B.c6)}}
 A.ak0.prototype={
 $0(){var s=0,r=A.X(t.P),q=this,p,o,n,m
 var $async$$0=A.Y(function(a,b){if(a===1)return A.U(b,r)
